@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ebd9d9;
+  }
+  
+  .digital-clock {
+    padding: 30px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #273020;
+    display: inline-block;
+    border: solid 5px blue;
+  }
+
+  .hours {
+    color: rgb(183, 163, 13); 
+  }
+  .minutes {
+    color: rgb(115, 6, 119); 
+  }
+  .seconds {
+    color: rgb(27, 17, 118); 
+  }
