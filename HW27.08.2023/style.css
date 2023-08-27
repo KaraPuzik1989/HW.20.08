@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.result {
+    margin-bottom: 25px;
+}
+.email {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
